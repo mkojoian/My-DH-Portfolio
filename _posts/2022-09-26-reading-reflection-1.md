@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Reading Reflection One"
+date:   "2022-09-21" 
+categories: jekyll update
+---
+
+Here is my post.
+
+## Reading Reflection Two
+
+It has only been three weeks since the start of the semester, but I have already been asked “what are the Digital Humanities?” on several occasions by curious students, family, and friends.  Thankfully the readings so far in this course have provided me with a ready definition that seems to satisfy, but it is hard not to notice discrepancies even within the same publication.  The first chapter of The Digital Humanities: A Primer states that “the core of humanistic study is to seek out origins and to interpret how we use language…” (Gardiner & Musto, 1) but the second chapter of this book emphasizes that it is the “alterity…and analyzing these individual objects or events within their deep contexts and in relationship to other unique examples over time and space” (Gardiner & Musto, 16) that form the core of humanistic research.  While any scholar of the humanities would agree that both the study of origins and language as well as the study of changes over time are important considerations as researchers, it is clear that there is a certain degree of tension between these two definitions within the same book.
+
+As a relatively new field of study, the Digital Humanities seem to mean different things to scholars in different branches of the umbrella term “humanities.”  Some scholars are interested in the Digital Humanities because of how quickly data can be arranged in ways that are easily analyzed and interpreted while others prefer the digitization of material that was previously available only in libraries.  Classicists, in particular, are eager (and perhaps too much so) to employ digital tools as translation aids in deciphering Greek and Latin sentences simply by clicking on any given word and viewing its completely parsed dictionary form.  If, as Gardiner and Musto suggest, the core of humanistic study is indeed to find origins and to interpret how we use language, then the humanists in the Renaissance seem to have been working backwards.  As is noted, “[t]hey were, instead, a distinct group of philological experts, trained in the reading of classical texts, first Latin and then Greek, and devoted to deciphering and editing the scattered classical heritage they found across Europe in the medieval of masteries and princely collections” (Gardiner & Musto, 8).  These philologists are referred to as experts, but the fact that they first studied Larin and then Greek does not uphold the standards of studying either origins or language interpretation.  Historically, the Greek language is older than the Latin language and therefore Latin has its roots in Greek and not vice versa.  This implies either that these philologists were not experts they are purported to be, or that the core of humanistic research must be more carefully defined.  
