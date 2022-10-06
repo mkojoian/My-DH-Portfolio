@@ -1,0 +1,16 @@
+---
+layout: page
+title: Mapping the Republic of Letters
+description: Here I evaluate Stanford's Mapping the Republic of Letters.
+---
+## Source
+
+[Stanford University Mapping the Republic of Letters. Accessed October 6, 2022.](http://republicofletters.stanford.edu.)
+
+## Evaluation
+
+Mapping the Republic of Letters is a digital repository created by Stanford University in partnership with Oxford University, DensityDesign Research Lab in Italy and several other institutions listed on their website.  The purpose of this project is to collect, organize, digitize, and analyze data such as letters between the United States and Europe.  Before the age of easy trans-continental travel, academic communities were forced to have scholarly conversations through limited conferences and correspondences.  Because correspondences were not digital and therefore not able to be widely distributed, Mapping the Republic of Letters enables students, scholars, and any curious lay historian to access not only the content of these letters, but also an in-depth digital analysis of them.  
+
+The many hands involved in creating and maintaining this project are among its greatest strengths.  Under the guidance of cooperating professors, undergraduate students at Stanford University area able to contribute their historical research to this project.  Because the visuals in this project are created with Palladio, a platform for visualizing data graphically, creating organized lists, maps, and relationship diagrams, students are able to learn programming alongside history, thereby contributing to the Digital Humanities—the intersection of these two otherwise distinct fields.  One of the ways this project might be improved is by close maintenance of the site.  Some of the links are “dead” and many of the visualizations are not able to be viewed (just rectangular frames with the infamous blue question mark inside).  
+
+One of the stated goals of this project is to provide users with the ability to synthesize data visually.  A project from 2012, for example, includes an interactive map entitled “Voltaire’s places of publication (1712-1800).”  This map is a tool allowing users an easy comparison among research topics that have apparently attracted the attention of historians of this period.  On this map, selecting “stated places” and then “true stated places” without clearing the original search demonstrates that there is much overlap between these two categories.  While this could be discovered by traditional non-digital means, the process would be much more time-consuming and likely less comprehensive.  In addition, the colored circles designating locations of Voltaire’s publication (both “stated places” and “true-stated places”) have major implications for future research questions in this area.  If a letter is ever found suggesting that Voltaire was published in a given city, it would be reasonable to assume that this is likely true given the extensive overlap between the two categories.  By the same token, if there were very little overlap between stated locations of publication and true places of publication, this assumption would be significantly weakened.
