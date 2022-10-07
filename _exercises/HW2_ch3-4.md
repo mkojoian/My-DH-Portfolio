@@ -1,3 +1,9 @@
+---
+layout: page
+title: Exercises Chapters 3-4
+description: Select exercises from Python Crash Course
+---
+
 ```python
 # 3.1
 names = ["deirdre", "kelli", "andrew", "abby"]
