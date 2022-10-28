@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OCR and Maching Translation
+title: OCR and Machine Translation
 description: This lesson uses commands in Terminal to convert pdfs to tiff files and ultimately to txt files.  Once in this format, files are keyword searchable and can be translated using Yandex. 
 ---
 
