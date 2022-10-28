@@ -7,7 +7,7 @@ categories: jekyll update
 
 Here is my post.
 
-## Reading Reflection Two
+## Reading Reflection One
 
 It has only been three weeks since the start of the semester, but I have already been asked “what are the Digital Humanities?” on several occasions by curious students, family, and friends.  Thankfully the readings so far in this course have provided me with a ready definition that seems to satisfy, but it is hard not to notice discrepancies even within the same publication.  The first chapter of The Digital Humanities: A Primer states that “the core of humanistic study is to seek out origins and to interpret how we use language…” (Gardiner & Musto, 1) but the second chapter of this book emphasizes that it is the “alterity…and analyzing these individual objects or events within their deep contexts and in relationship to other unique examples over time and space” (Gardiner & Musto, 16) that form the core of humanistic research.  While any scholar of the humanities would agree that both the study of origins and language as well as the study of changes over time are important considerations as researchers, it is clear that there is a certain degree of tension between these two definitions within the same book.
 
