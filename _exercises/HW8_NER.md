@@ -4,9 +4,6 @@ title: Named Entity Recognition
 description: NB: The HW is at the end of this notebook.  Here I use NER on chapter 38 of Gibbon's Decline and Fall of the Roman Empire.  
 ---
 
-
-```python
-
 # Named Entity Recognition (NER)
 
 Named entity recognition (NER) is a branch of natural language processing that focuses on extracting the text of names or other semantically distinct ideas from a larger text and tagging according to its special meaning within a system. NER can be broken into two broad categories: algorithms which use deterministic rules to find names (find all tokens that match the regular expression: `([A-Z][a-z]+)`) and statisical models which make guesses about where an entity begins and ends.
