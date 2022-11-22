@@ -5,7 +5,7 @@ description: NB: The HW is at the end of this notebook.  Here I use NER on chapt
 ---
 
 
-
+```python
 
 # Named Entity Recognition (NER)
 
