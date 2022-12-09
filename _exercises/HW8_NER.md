@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Named Entity Recognition
-description: NB: The HW is at the end of this notebook.  Here I use NER on chapter 38 of Gibbon's Decline and Fall of the Roman Empire.  
+description: The HW is at the end of this notebook.  Here I use NER on chapter 38 of Gibbon's Decline and Fall of the Roman Empire.  
 ---
 
 # Named Entity Recognition (NER)

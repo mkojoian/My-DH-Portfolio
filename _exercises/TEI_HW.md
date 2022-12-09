@@ -1,3 +1,9 @@
+---
+layout: page
+title: Exercise TEI
+description: TEI Assignment
+---
+
 ```
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
