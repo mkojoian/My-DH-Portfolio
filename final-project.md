@@ -24,6 +24,8 @@ Catullus’ first carmen is a dedicatory poem addressed to his friend Cornelius 
 
 >“To whom do I give (this) charming new little book recently polished with a dry pumice stone?  To you, Cornelius!  For you were accustomed to think my trifles were something.  Now then, when the only one of the Italians dared to explain all history on three papyri, learned, by Jupiter, and with much labor.  Therefore, have for yourself this thing whatever it (is) of a little book.  Which whatever (it is) O virgin patron, may it remain for more than one age.” 
 
+(https://mkojoian.github.io/My-DH-Portfolio/exercises/Catullus_Poem_1.html xml markup)
+
 As is apparent from the words enclosed within parentheses, some words must be added for a grammatical and understandable English translation.  More importantly however, there are also Latin words that must be added to the xml—words that were not penned by Catullus—in order to fully understand the dependency grammar that is implied.  For instance, the second sentence of the above poem “Corneli, tibi” (“to you Cornelius”) contains no verb, making it necessary to add an additional line of code to the xml upon which the proper noun Corneli and the pronoun tibi can grammatically depend.  A Roman audience would have understood the verb of this sentence to be the same as the verb of the main verb of the previous sentence (i.e. dono).  The sentence would thus be understood “I give it to you Cornelius.”  Because the reapplication of the previous verb was intuitive to his audience, Catullus chose not to repeat it in this second sentence.   This being the case, in order to treebank this sentence, a verb does need to be supplied.  
 The process for inserting an additional word into the xml is fairly straightforward and is highlighted in red below.
 ```
@@ -53,7 +55,7 @@ Each sentence is enclosed within two sentence delimiters ```</sentence>``` and w
 ```
 While these changes may appear rather unimpressive in the xml, the visual this code represents is a completely treebanked sentence with the vocative noun appearing in light blue (the color associated with nouns) and the pronoun appearing in purple (the color associated with pronouns).  Note that the verb is in black and not in its customary red (the color associated with verb forms).  This is because this word was added manually and not original to the poem.      
 
-IMAGE
+![Catullus poem 1](../assets/Image 1.png)
 
 Continuing to edit this poem for final treebanking, the next sentence includes the enclitic -que (translated as “and” and attached to the end of the preceding word nam).  Because the treebank requires the elements of a given sentence to function independently,  the -que must be split from the nam so that both can individually function properly within the sentence.  The xml copied below does not represent a text ready to be treebanked since nam and -que are currently not able to function independently when grouped together as a single word unit  and must therefore be split. 
 ```
@@ -135,7 +137,7 @@ At this point, this poem is almost ready to be fully treebanked.  The final issu
       <word id="24" insertion_id="0015e" artificial="elliptic" relation="APOS" form="[ ]" head="20"/>
  </sentence>
 ```
-IMAGE
+![Catullus poem 1](../assets/Image 2.png)
 
 While the data collection and editing processes can be rather tedious, for seemingly unimpressive results, treebanking itself is not always straightforward and the process can lead to new ideas about the different meanings invested in these poems.  As previously mentioned, treebanking technology is useful not only for those hoping to visualize the basic grammar, but also for those interested in a more advanced analysis of poetry and prose.  Treebanking poem forty-nine, for example, provides an interesting example of the way Catullus manipulates the Latin language with a double entendre that would not have been lost on his ancient audience:  
 
@@ -148,6 +150,8 @@ While the data collection and editing processes can be rather tedious, for seemi
 >quanto tu optimus omnium patronus. (Catullus, Carmina 49).
 
 >Most eloquent son of Romulus how many there are, and how many have been, and how many there will be afterwards in other years, Marcus Tullius, Catullus gives the greatest thanks to you as the worst of all poets, by far the worst of all poets, as much as you are the best patron of all. 
+
+(https://mkojoian.github.io/My-DH-Portfolio/exercises/Catullus_Poem_49.html xml markup)
 
 The repetitive language in this poem is apparent from the very beginning in which, after stating that Cicero (Marcus Tullius) is the most eloquent poet, Catullus goes on to specify that he is the best poet of the past, the present, and (as he predicts) the future.  This is redundant as this meaning is included within the superlative adjective disertissime.  Also significant are the apparent redundancies Catullus exercises throughout the poem.  Distinguishing Cicero as the most eloquent son of Romulus would have been sufficient without the elaborate temporal specification of past, present, and future (with the triple repetition of quot) which entirely consumes the entirety of the second and third lines.
 Another redundancy is the wordplay on omnium in the last three lines.  In all three cases, omnium is an attributive adjective modifying poeta (or patronus in the case of the last line).  The question, then, becomes what particular use of the genitive these are.  They could easily be understood as the partitive genitive implying that Catullus was humbly making a comparison between himself (the worst of all poets) and Cicero (the best of all patrons).  This would be consistent with the opening lines of the poem in which Cicero was described as the most eloquent (disertissime) of Romulus’ sons.  But there is another possibility: the repeated genitive omnium could also reasonably be marked as a possessive genitive (i.e. “the best patron of everyone”) in a gesture of mockery.  It was well known that, in 56 BC, Cicero defended Marcus Caelius Rufus, who had formerly been his political rival.  Again in 54 he famously defended Vatinius, whom he had previously prosecuted.  Because of these incidents, the orator’s well-known ability to speak either on behalf of or against whomever he pleased would have made this an obvious (and humorous) alternative interpretation for Catullus’ listeners.   
